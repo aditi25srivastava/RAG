@@ -59,8 +59,9 @@ This project goes far beyond a standard text-based chatbot, featuring a continuo
 ---
 
 ## 📸 Screenshots
+<img width="1680" height="1050" alt="Screenshot 2026-06-17 at 8 28 39 PM" src="https://github.com/user-attachments/assets/49522f7d-c886-4c74-95a9-7cd78c4e711a" />
+<img width="1680" height="1050" alt="Screenshot 2026-06-17 at 8 27 56 PM" src="https://github.com/user-attachments/assets/794dfcf9-1232-41c7-b5a8-ed9cfe5ec519" />
 
-*(Add your screenshots here! Take a picture of the camera UI and the research chat).*
 
 ---
 *Built for the 2026 standard of AI interactability.*
